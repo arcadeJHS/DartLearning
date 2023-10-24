@@ -1,7 +1,7 @@
 void main(List<String> args) {
   int area = squareArea(5);
 
-  print('The area is: $area');
+  print('The area is: $area!');
 }
 
 int squareArea(int x) {
